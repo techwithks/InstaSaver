@@ -1,0 +1,2 @@
+rootProject.name = "IG Content Downloader"
+include ':app'
